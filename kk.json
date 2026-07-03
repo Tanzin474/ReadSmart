@@ -1,0 +1,48 @@
+{
+    "msg": {
+        "version": "2.0",
+        "routeKey": "ANY /query",
+        "rawPath": "/default/query",
+        "rawQueryString": "",
+        "headers": {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "accept-encoding": "gzip, deflate, br",
+            "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+            "cache-control": "max-age=0",
+            "content-length": "0",
+            "host": "ilcgnodtyc.execute-api.ap-south-1.amazonaws.com",
+            "sec-ch-ua": "\"Not A(Brand\";v=\"99\", \"Google Chrome\";v=\"121\", \"Chromium\";v=\"121\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\"",
+            "sec-fetch-dest": "document",
+            "sec-fetch-mode": "navigate",
+            "sec-fetch-site": "none",
+            "sec-fetch-user": "?1",
+            "upgrade-insecure-requests": "1",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+            "x-amzn-trace-id": "Root=1-65ca0c3a-6d60194a4e95807e560d3301",
+            "x-forwarded-for": "14.139.162.2",
+            "x-forwarded-port": "443",
+            "x-forwarded-proto": "https"
+        },
+        "requestContext": {
+            "accountId": "339712697847",
+            "apiId": "ilcgnodtyc",
+            "domainName": "ilcgnodtyc.execute-api.ap-south-1.amazonaws.com",
+            "domainPrefix": "ilcgnodtyc",
+            "http": {
+                "method": "GET",
+                "path": "/default/query",
+                "protocol": "HTTP/1.1",
+                "sourceIp": "14.139.162.2",
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+            },
+            "requestId": "TBbZIjH2hcwEPpg=",
+            "routeKey": "ANY /query",
+            "stage": "default",
+            "time": "12/Feb/2024:12:16:58 +0000",
+            "timeEpoch": 1707740218143
+        },
+        "isBase64Encoded": false
+    }
+}
